@@ -7,6 +7,7 @@
 ## gRPC
  - [프로덕션 환경에서 사용하는 golnag과 gRPC](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/?gclid=EAIaIQobChMIvJ2BxP3B6gIVzGkqCh2ZMgffEAAYASAAEgIWvPD_BwE) 
  golang은 됬고, gRPC 알아보자.
+ - [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
 
 
 ## Redis 원자적 계산 방법
